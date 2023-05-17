@@ -11,8 +11,8 @@ A repository for my Meta-Backend-Developer-Course
   * Week 2: [Introduction to HTML and CSS]()
   * Week 3: [UI Frameworks]()
   * Week 4: [End-of-Course Graded Assessment]
-- Course 2: [Programming in Python]()
-  * Week 1: [Getting started with Python]()
+- Course 2: [Programming in Python](https://www.coursera.org/learn/programming-in-python?specialization=meta-back-end-developer)
+  * Week 1: [Getting started with Python](https://github.com/JoelSalas22/MetaBackendDeveloper/tree/bb1c5fbf0495f5a797709371816751630c48d916/Course%202%20-%20Programming%20In%20Python/Week%201%20-%20Getting%20Started%20With%20Python)
   * Week 2: [Basic Programming with Python]()
   * Week 3: [Programming paradigms]()
   * Week 4: [Modules, packages, libraries and tools]()
